@@ -1,0 +1,11 @@
+# Node
+node_modules/
+
+# Environment variables
+**/.env
+
+# Backend logs
+backend/logs/
+
+# OS
+.DS_Store
